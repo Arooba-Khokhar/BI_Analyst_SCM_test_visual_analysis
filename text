@@ -27,7 +27,14 @@ The SKU ID is unique within each country and each SKU is part of a “product”
 group
 
 
+Metrics
 
+The SKU IDs follow a pattern of ABC-xx-xxxxx-x where the first 3 characters
+denote the SKU
+
+The PTN-10-31250-2 is part of the “PTN” category (Protein) Other categories
+Included in the dataset: DAI (Dairy), PRO (processed food). All unit prices are
+in local currency category
 
 
 
