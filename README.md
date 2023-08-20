@@ -26,11 +26,7 @@ DC and value by local currency
 
 
 
-Analysis
-
-3. For example:
-
-Sku category are filter country, DC and order typer
+Analysis: Sku category are filter country, DC and order typer
 
 
 ![image](https://github.com/Arooba-Khokhar/BI_Analyst_SCM_test_visual_analysis/assets/14163981/67780874-590c-4e72-bbd3-94a11e5ca5e4)
@@ -40,9 +36,7 @@ Sku category are filter country, DC and order typer
 Analysis
 
 A country can have one or more DCs (distribution centers) which, from
-Procurement
-
-perspective, represent the warehouses where the purchase orders are to be
+Procurement, perspective, represent the warehouses where the purchase orders are to be
 delivered.
 
 
