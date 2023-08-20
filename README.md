@@ -17,10 +17,8 @@ be managing the project better.
 Analysis: Sku category has id which is part of a “product” group, country,
 DC and value by local currency
 
-![image](https://github.com/Arooba-Khokhar/BI_Analyst_SCM_test_visual_analysis/assets/14163981/95c1ce2c-56e7-4f0d-b741-08c811db4b55)
+![image](https://github.com/Arooba-Khokhar/BI_Analyst_SCM_test_visual_analysis/assets/14163981/3861e9a2-8469-4639-a81b-a22fa60d7d73)
 
-
-![image](https://github.com/Arooba-Khokhar/BI_Analyst_SCM_test_visual_analysis/assets/14163981/08b32869-0fc2-4244-b854-1bf8110bda7b)
 
 
 Analysis: Sku category are filter country, DC and order typer
